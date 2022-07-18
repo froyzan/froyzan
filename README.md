@@ -1,3 +1,7 @@
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @froyzan
 - 👀 I’m interested in Python, C
 - 🌱 I’m currently learning MySQL, Flask
