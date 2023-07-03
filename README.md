@@ -3,8 +3,7 @@
 </div>
 
 - 👋 Hi, I’m Andrey
-- 🌱 I’m currently learning MySQL, Flask
-- website https://froyzan.ru
+- 🧑‍💻 website https://froyzan.ru
 <div>
   <p align="left">
     <a href="https://www.hackerrank.com/froyzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="froyzan" height="30" width="40" /></a>
