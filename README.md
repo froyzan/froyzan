@@ -14,8 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 </div>
 
-[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/dark/froyzan)](https://zeynalmardanli-leetcode-stats.vercel.app/dark/froyzan)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froyzan&layout=compact)
 <!---
 froyzan/froyzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
