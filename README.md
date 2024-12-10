@@ -13,7 +13,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
 </div>
-![Leetcode Stats](https://leetcard.jacoblin.cool/froyzan)
+
+[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/dark/{froyzan})](https://zeynalmardanli-leetcode-stats.vercel.app/dark/{froyzan})
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froyzan&layout=compact)
 <!---
